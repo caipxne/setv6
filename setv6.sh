@@ -26,9 +26,3 @@ then
 	EOF
  # Add any additional configuration steps here
 fi
-
-service network restart
-
-rm -rf ipv6.sh
-
- echo 'Da tao IPV6 thanh cong!'
