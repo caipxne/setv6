@@ -24,7 +24,7 @@ then
 	IPV6ADDR=2403:6a40:2:4100::$IPD:0000/56
 	IPV6_DEFAULTGW=2403:6a40:2:4100::1
 	EOF
-
+ # Add any additional configuration steps here
 fi
 
 service network restart
